@@ -72,6 +72,48 @@ A mid-sized organization (TechSolutions Inc.) required a secure Microsoft 365 en
 
 (To be updated as files are added)
 
+# 📸 Screenshots
+
+## 🛡️ Threat Protection (Microsoft Defender)
+
+![Secure Score](screenshots/defender-secure-score.png)
+![Anti-Phishing Policy](screenshots/defender-anti-phishing.png)
+
+---
+
+## 🔒 Data Protection & Compliance
+
+![DLP Policy](screenshots/dlp-policy.png)
+![DLP Rule Configuration](screenshots/dlp-rule-config.png)
+![Encryption Rule](screenshots/exchange-encryption-rule.png)
+
+---
+
+## 📊 Monitoring & Alerts
+
+![Audit Log](screenshots/audit-log.png)
+![Alert Policy](screenshots/alert-policy.png)
+
+---
+
+## 📈 Reporting & Automation
+
+![Usage Report](screenshots/usage-report.png)
+![Power Automate Flow](screenshots/power-automate-flow.png)
+
+---
+
+## 🤝 Collaboration & Supporting Configurations
+
+![SharePoint Collaboration](screenshots/sharepoint-collaboration-tool.png)
+![Viva Engage Setup](screenshots/setup-viva-engage.png)
+
+<!-- Optional / Extra Screenshots -->
+
+<!-- ![User Profile](screenshots/configure-user-profile.png) -->
+
+<!-- ![M365 Group](screenshots/ms-365-group.png) -->
+
 ---
 
 # 🚀 Skills Demonstrated
